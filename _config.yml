@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:jjinwoo1987@naver.com"
+      url : "jjinwoo1987@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -290,3 +290,4 @@ defaults:
       comments:  true
       share: true
       related: true
+      show_date: true
